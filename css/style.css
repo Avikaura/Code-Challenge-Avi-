@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: url('/img/photo-1551077748-be0ebda5bd6d.jpg');
+    background-image: url('/Code-Challenge-Avi-/img/photo-1551077748-be0ebda5bd6d.jpg');
 }
 
 .header{
@@ -136,7 +136,7 @@ h3:hover{
 
 @media screen and (min-width: 600px) {
     body {
-      background-image: url('/img/wing-221526_1280.jpg');
+      background-image: url('/Code-Challenge-Avi-/img/wing-221526_1280.jpg');
     }
 
     .header{
